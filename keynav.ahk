@@ -1,7 +1,7 @@
 ;
 ; AutoHotkey Version: 1.x
 ; Language:       English
-; Platform:       Win9x/NT
+; Platform:       Win9x/NT/2k/7
 ; Author:         José A. Romero L.<escherdragon@gmail.com>
 ;
 ; Script Function:
